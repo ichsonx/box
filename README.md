@@ -5,4 +5,4 @@
 会在往后不断添加新的工具，并完善已有的工具。
 
 # DOC
-![https://pkg.go.dev/github.com/ichsonx/box](https://pkg.go.dev/github.com/ichsonx/box)
+[https://pkg.go.dev/github.com/ichsonx/box](https://pkg.go.dev/github.com/ichsonx/box)
